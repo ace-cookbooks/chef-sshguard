@@ -9,7 +9,7 @@ This has been tested on amazon linux.  It requires the iptables cookbook.
 Note: This cookbook disables iptables default rules on rhel and fedora platforms.
 
 #### packages
-- `sshguard` - An rpm spec file can be found in this repository.
+- `sshguard` - An rpm spec file can be found in the github repository (https://github.com/ace-cookbooks/chef-sshguard).
 
 Usage
 -----
